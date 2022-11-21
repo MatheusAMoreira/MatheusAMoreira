@@ -32,8 +32,8 @@
 ## 🕵 &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=MatheusAMoreria&show_icons=true&theme=midnight-purple" alt="Matheus Moreria's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAMoreria&layout=compact&theme=midnight-purple" alt=Matheus Moreria's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=MatheusAMoreira&show_icons=true&theme=midnight-purple" alt="Matheus Moreria's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAMoreira&layout=compact&theme=midnight-purple" alt=Matheus Moreria's most languages"/>
 </p>
 
 <br>
