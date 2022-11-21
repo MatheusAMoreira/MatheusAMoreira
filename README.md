@@ -1,5 +1,5 @@
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Matheus Moreira here!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusAMoreria&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusAMoreria&flat-square&color=blueviolet" alt="Profile views" /> </p>
 
 - 👌 Junior Web Developer
 
