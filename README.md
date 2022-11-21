@@ -42,7 +42,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/matheus-moreira-a9638222b/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-MatheusMoreira-a9638222b?style=social&logo=linkedin" alt="Matheus Moreria's linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-MatheusMoreira-a9638222b?style=social&logo=linkedin" alt="Matheus Moreira's linkedin"/>
 </a>
 </p>
 
